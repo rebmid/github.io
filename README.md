@@ -1,6 +1,9 @@
 ### 👋Hi, I'm Rebekah Midkiff
 I just recently completed my Bachelor of Science in Software Development
 
+### Projects
+* [Azure IoT Academy](https://github.com/AzureIoTGBB/iot-academy)
+  - [Includes Hands On Labs  Learning Azure IoT]
 
 ### ✍️📝Resume
 * [Resume](https://github.com/rebmid/github.io/blob/main/Rebekah%20Midkiff-Resume_.pdf)
