@@ -7,7 +7,7 @@ I just recently completed my Bachelor of Science in Software Development
 * [B.S. Software Development Capstone](https://github.com/rebmid/Degree-Capstone-Project-using-Scheduling-Software-C-Application)
 
 ### ✍️📝Resume
-* [Resume](https://github.com/rebmid/github.io/blob/main/Rebekah Resume_.pdf)
+* [Resume](https://github.com/rebmid/github.io/blob/main/RebekahResume.pdf)
 
 
 ### 📬Connect with Me📬
